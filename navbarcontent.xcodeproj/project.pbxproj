@@ -12,7 +12,7 @@
 
 /* Begin PBXFileReference section */
 		749C76852EEA81480034BD7F /* navbarcontent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = navbarcontent.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		749C769C2EEA86CA0034BD7F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .gitignore; sourceTree = "<group>"; };
+		749C769C2EEA86CA0034BD7F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,9 +37,9 @@
 		749C767C2EEA81480034BD7F = {
 			isa = PBXGroup;
 			children = (
-				749C769C2EEA86CA0034BD7F /* .gitignore */,
 				749C76872EEA81480034BD7F /* navbarcontent */,
 				749C76862EEA81480034BD7F /* Products */,
+				749C769C2EEA86CA0034BD7F /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
